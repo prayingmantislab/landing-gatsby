@@ -42,7 +42,7 @@ const ModalContent = () => (
   <VideoWrapper>
     <iframe
       title="Video"
-      src="https://www.youtube.com/embed/8ME-QAlW6Ww"
+      src="https://www.youtube.com/watch?v=BePoG2ONkTw"
       frameBorder="0"
     />
   </VideoWrapper>
